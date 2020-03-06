@@ -1,2 +1,2 @@
-# nicc-vendor
-Example repo for NICC external users to format submission
+# cnicc-vendor
+Example repo for CNICC external users to format submission
